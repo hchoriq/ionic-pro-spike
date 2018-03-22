@@ -1,0 +1,8 @@
+{
+  "name": "ionic-pro-spike",
+  "app_id": "dbd09307",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
